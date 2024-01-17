@@ -21,6 +21,11 @@ matplotlib: For generating plots.
 scipy: For statistical functions.
 To install these, run pip install -r requirements.txt.
 
+# Note
+!git clone https://github.com/rashettycode/DSI-BUILD-SOFTWARE-PROJECT-1.git
+%cd DSI-BUILD-SOFTWARE-PROJECT-1/assignmentpkg
+!pip install .
+
 # Usage
 After setting up your API key in the configuration files, you can use the package to fetch articles, analyze data, and plot results.
 
