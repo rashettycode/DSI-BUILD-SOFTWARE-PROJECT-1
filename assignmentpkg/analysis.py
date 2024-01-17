@@ -20,6 +20,12 @@ class Analysis:
         api_key = api_settings.get("api_key")
         topic = api_settings.get("topic")
 
+      
+
+        # Call the API function from your package
+        response = assignmentpkg.api_function(api_key, other_parameters)
+
+
         if api_key is None or topic is None:
             raise KeyError("API key or topic not found in the configuration file.")
 
