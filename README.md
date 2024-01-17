@@ -26,6 +26,19 @@ After setting up your API key in the configuration files, you can use the packag
 
 #Testing
 Run Python -m unittest to execute tests and ensure the functionality of the package.
-=======
+
+# Testing Summary
+
+short test summary info =============================================================================================================================================== 
+FAILED assignmentpkg/test_analysis.py::TestAnalysisMethods::test_load_data_success - AssertionError: expected call not found. check the url https://api.nytimes.com/svc/search/v2/articlesearch.json
+
+Virtual Env
+test session starts =================================================================================================================================================
+platform win32 -- Python 3.11.4, pytest-7.4.4, pluggy-1.3.0
+rootdir: C:\Users\rahul\Desktop\DSI-Software\dsi-build-software-project-1
+collected 1 item
+
+assignmentpkg\test_analysis.py .                                                                                                                                                                                                                                                       
+===================================================================================================================================== 1 passed in 0.51s ======
 # DSI-BUILD-SOFTWARE-PROJECT-1
 >>>>>>> f63b92ab1070bb9366552e5426e7f69aad269fac
