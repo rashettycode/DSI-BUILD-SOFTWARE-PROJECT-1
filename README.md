@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NY Times AI Article Analysis Package
 
@@ -25,3 +26,6 @@ After setting up your API key in the configuration files, you can use the packag
 
 #Testing
 Run Python -m unittest to execute tests and ensure the functionality of the package.
+=======
+# DSI-BUILD-SOFTWARE-PROJECT-1
+>>>>>>> f63b92ab1070bb9366552e5426e7f69aad269fac
