@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # NY Times AI Article Analysis Package
 
