@@ -22,7 +22,7 @@ class Analysis:
 
       
 
-        # Call the API function from your package
+        # Call the API function from  package
         response = assignmentpkg.api_function(api_key, other_parameters)
 
 
