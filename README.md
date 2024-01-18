@@ -53,5 +53,12 @@ collected 1 item
 
 assignmentpkg\test_analysis.py .                                                                                                                                                                                                                                                       
 ===================================================================================================================================== 1 passed in 0.51s ======
+
+# Troubleshooting
+If you encounter issues with making API calls, ensure that your Python environment has internet access and that you've correctly configured the API URL, parameters, and API key.
+
+# Credits
+New York Times API - For providing the API used in this example.
+Feel free to modify and use this example for making API calls in your projects. Happy coding!
+
 # DSI-BUILD-SOFTWARE-PROJECT-1
->>>>>>> f63b92ab1070bb9366552e5426e7f69aad269fac
