@@ -21,12 +21,14 @@ matplotlib: For generating plots.
 scipy: For statistical functions.
 To install these, run pip install -r requirements.txt.
 
-# Note for installing on google colab
+# Note for installing on google colab steps 
 * !git clone https://github.com/rashettycode/DSI-BUILD-SOFTWARE-PROJECT-1.git
 
 * %cd DSI-BUILD-SOFTWARE-PROJECT-1/assignmentpkg
 
-* !pip install .
+* !pip install -r requirements.txt
+  
+* import assignmentpkg
 
 * or
 
