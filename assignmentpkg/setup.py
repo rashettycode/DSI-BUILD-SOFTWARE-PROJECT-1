@@ -1,17 +1,6 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
-setup(
-    name="assignmentpkg",
-    version="1.1.0",
-    author="Kevin, Rahul, S, Ashish",
-    description="A package for analyzing data from the NYT API",
-    packages=find_packages(),
-    install_requires=[
-        "requests",
-        "PyYAML",
-        "numpy",
-        "scipy",
-        "matplotlib"
-    ],
-    python_requires='>=3.6',
-)
+setup(name='assignment',
+      version='2.0.0',author='Kevin,Ashish,Rahul',
+      packages=['assignmentpkg'],
+      install_requires=['requests''numpy','pandas','matplotlib','yaml'])
